@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.75;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#000000;stroke-width:1.091;stroke-miterlimit:10;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter);}
+	.st5{opacity:0.75;mask:url(#SVGID_1_);}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:1.091;stroke-miterlimit:10;}
+</style>
+<g>
+	
+		<image style="overflow:visible;" width="368" height="361" xlink:href="B4922D2B.png"  transform="matrix(1 0 0 1 280.1545 113.2933)">
+	</image>
+</g>
+<g>
+	
+		<image style="overflow:visible;" width="304" height="295" xlink:href="B4922D2C.png"  transform="matrix(1 0 0 1 312.1545 146.2933)">
+	</image>
+</g>
+<g>
+	<g class="st0">
+		<path d="M647.8,421.6"/>
+		<path class="st1" d="M647.8,421.6"/>
+	</g>
+	<g>
+		<path class="st2" d="M640.8,411.6"/>
+		<path class="st1" d="M640.8,411.6"/>
+	</g>
+</g>
+<g>
+	
+		<image style="overflow:visible;opacity:0.75;" width="306" height="292" xlink:href="B4922D2D.png"  transform="matrix(1 0 0 1 -53 -50.3564)">
+	</image>
+	<g>
+		<path d="M55,59.8c32.9-33.9,96.4-36.3,112-12c13.9,21.6-10.2,64.1-38,86c-24.6,19.4-69.7,36.6-90,17C19.3,131.8,30.5,85.1,55,59.8
+			z"/>
+		<path class="st1" d="M55,59.8c32.9-33.9,96.4-36.3,112-12c13.9,21.6-10.2,64.1-38,86c-24.6,19.4-69.7,36.6-90,17
+			C19.3,131.8,30.5,85.1,55,59.8z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st2" d="M80.9,70.6c16.7-14,45.4-18.7,54.3-7.5c8.5,10.7-2.7,33.7-16.6,46.2c-15.7,14-43.2,22.1-53.2,11.8
+			C55.5,110.9,64.5,84.5,80.9,70.6z"/>
+		<path class="st3" d="M80.9,70.6c16.7-14,45.4-18.7,54.3-7.5c8.5,10.7-2.7,33.7-16.6,46.2c-15.7,14-43.2,22.1-53.2,11.8
+			C55.5,110.9,64.5,84.5,80.9,70.6z"/>
+	</g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="60.8" y="56.3" width="77.9" height="70">
+			
+				<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="60.8" y="56.3" width="77.9" height="70" id="SVGID_1_">
+		<g class="st4">
+			<image style="overflow:visible;" width="83" height="75" xlink:href="B4922D07.jpg"  transform="matrix(1 0 0 1 58 53.6436)">
+			</image>
+		</g>
+	</mask>
+	<g class="st5">
+		<path class="st2" d="M80.9,70.6c16.7-14,45.4-18.7,54.3-7.5c8.5,10.7-2.7,33.7-16.6,46.2c-15.7,14-43.2,22.1-53.2,11.8
+			C55.5,110.9,64.5,84.5,80.9,70.6z"/>
+		<path class="st6" d="M80.9,70.6c16.7-14,45.4-18.7,54.3-7.5c8.5,10.7-2.7,33.7-16.6,46.2c-15.7,14-43.2,22.1-53.2,11.8
+			C55.5,110.9,64.5,84.5,80.9,70.6z"/>
+	</g>
+</g>
+</svg>
